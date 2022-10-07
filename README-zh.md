@@ -1,7 +1,7 @@
 <!--
  * @Author: Topskys
  * @Date: 2022-05-21 22:24:00
- * @LastEditTime: 2022-10-07 15:25:10
+ * @LastEditTime: 2022-10-07 15:28:22
 -->
 # vue-admin-template
 
@@ -10,8 +10,6 @@
 [线上地址](http://panjiachen.github.io/vue-admin-template)
 
 [国内访问](https://panjiachen.gitee.io/vue-admin-template)
-
-目前版本为 `v4.0+` 基于 `vue-cli` 进行构建，若你想使用旧版本，可以切换分支到[tag/3.11.0](https://github.com/PanJiaChen/vue-admin-template/tree/tag/3.11.0)，它不依赖 `vue-cli`。
 
 
 
@@ -85,10 +83,3 @@ npm run lint -- --fix
 ```
 
 更多信息请参考 [使用文档](https://panjiachen.github.io/vue-element-admin-site/zh/)
-
-
-
-## Demo
-
-![demo](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/demo.gif)
-
